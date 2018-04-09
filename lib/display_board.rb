@@ -14,6 +14,6 @@ def display_board(board)
   puts "   ""|""   ""|""   "
 end
 
-def board_
+def
 
 display_board(board)
