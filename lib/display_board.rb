@@ -10,7 +10,7 @@ board[5] = [" ", " ", " ", " ", " ", " ", "O", "O", "O"]
 board[6] = ["X", " ", " ", " ", "X", " ", " ", " ", "X"]
 board[7] = [" ", " ", "O", " ", "O", " ", "O", " ", " "]
 
-def display_board(board)
+def display_board
   puts "   ""|""   ""|""   "
   puts "-----------"
   puts "   ""|""   ""|""   "
