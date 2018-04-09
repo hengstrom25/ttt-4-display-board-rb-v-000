@@ -1,6 +1,8 @@
 # Define display_board that accepts a board and prints
 # out the current state.
 
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 board[0] = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 board[1] = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 board[2] = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
