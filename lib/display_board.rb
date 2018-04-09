@@ -3,6 +3,7 @@
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
 
 def display_board(board)
   puts "   ""|""   ""|""   "
@@ -12,4 +13,4 @@ def display_board(board)
   puts "   ""|""   ""|""   "
 end
 
-display_board(board0
+display_board(board)
